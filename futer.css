@@ -1,0 +1,17 @@
+.futer {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    column-gap: 350px;
+}
+.naziv {
+    color: white;
+    align-items: center;
+}
+.kontakt {
+    color: white;
+    align-items: center;
+}

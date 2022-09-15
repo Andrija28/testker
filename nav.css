@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+/* MENJAJ NA HAMBURGER
+ .nav {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: black;
+    justify-content: space-between;
+    padding: 0 400px;
+    color: white;
+}
+.nav div {
+    padding-top: 14px;
+    flex-shrink: 0;
+    font-style: oblique;
+    font-size: 18px;
+}
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    align-items: center;
+}
+.nav ul li a {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav ul li a:hover {
+    opacity: 0.8;
+    color: rgb(255, 255, 255);
+}
+@media (max-width:600px) {
+    /*kasnije ubaci ovde hamburger meni 
+}
+*/
